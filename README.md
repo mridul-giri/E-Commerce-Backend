@@ -1,5 +1,5 @@
 # MERN-E-Commerce-Backend
-This Repository contains the Backend of E-Commerce App. Built with MongoDB, Express, NodeJs, and several other wonderful tools, such as TypeScrip, Mongoose, Stripe, and more.
+This Repository contains the Backend of E-Commerce App. Built with MongoDB, Express, NodeJs, and several other wonderful tools, such as TypeScript, Mongoose, Stripe, and more.
 
 It features a fully-fledged authentication with JWT, payments integration, and full CRUD functionality.
 
