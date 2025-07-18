@@ -1,2 +1,7 @@
-.env
+# Dependency directory
 node_modules/
+
+# Output directory
+dist/
+
+.env
