@@ -2,7 +2,6 @@
 node_modules/
 
 # Output directory
-dist/
-build/
+dist
 
 .env
